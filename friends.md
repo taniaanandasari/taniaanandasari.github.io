@@ -29,7 +29,7 @@ titte : friends
     <li class="bubble-effect"><a href="#">Salwa</a></li>
     <li class="bubble-effect"><a href="https://sitiazzahraa.github.io/">Siti Azzahra</a></li>
     <li class="bubble-effect"><a href="https://sitihajar01.github.io/">Siti Hajar</a></li>
-    <li class="bubble-effect"><a href="https://athayaaulfa18.github.io/">Sitha Athaya Aufa</a></li>
+    <li class="bubble-effect"><a href="https://athayaaulfa18.github.io/">Syakila Athaya Aufa</a></li>
     <li class="bubble-effect"><a href="https://taniaanandasari.github.io/">Tania Ananda Sari</a></li>
     <li class="bubble-effect"><a href="https://akbar2224.github.io/">Tm Dzaky Maulana</a></li>
     <li class="bubble-effect"><a href="https://wildanunhasanah.github.io/">Wildanun Hasanah</a></li>

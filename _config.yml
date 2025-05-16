@@ -1,5 +1,10 @@
-title: Home
-baseurl: ""
+title: Tania Ananda Sari
+email: "tania_ananda012@student.pnl.ac.id"
+description: > # this means to ignore newlines until "baseurl:"
+  I Am Tania Ananda Sari, a student of Politeknik Negeri Lhokseumawe.
+  This blog is built using Jekyll and hosted on GitHub Pages.
+  The Contect is primarily in Indonesia, but some posts may be in Inglish.
+
 url: "https://taniaanandasari.github.io/"
 
 sass:
